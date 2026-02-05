@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Jiwon Kim
 
-<!--
-**edu-ai-jiwon/edu-ai-jiwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Growing AI Developer
+> Learning by building. Growing by solving.
 
-Here are some ideas to get you started:
+데이터와 AI를 활용한 문제 해결 가능성을 탐색하고 있습니다.  
+Machine Learning과 데이터 분석을 중심으로 꾸준히 학습하며 실전 프로젝트 경험을 쌓고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Currently Learning
+- Machine Learning & Model Tuning
+- Data Analysis (Pandas, Scikit-Learn)
+- Model Evaluation & Feature Engineering
+
+---
+
+### 🎓 Background
+- Major in Classical Chinese Education
+- Exploring the intersection of AI and Education
+
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
