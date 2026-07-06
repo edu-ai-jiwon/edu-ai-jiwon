@@ -52,7 +52,7 @@
         <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
       </p>
       <p>
-        <a href="회의피하지마_레포링크">Repository</a>
+        <a href="https://github.com/edu-ai-jiwon/HPM-AI-Meeting-Automation">Repository</a>
       </p>
     </td>
     <td width="50%">
@@ -71,7 +71,7 @@
         <img src="https://img.shields.io/badge/RAG-6A5ACD?style=flat-square"/>
       </p>
       <p>
-        <a href="보험챗봇_레포링크">Repository</a>
+        <a href="https://github.com/edu-ai-jiwon/Dacare-AI-Insurance-Consulting">Repository</a>
       </p>
     </td>
   </tr>
@@ -90,7 +90,7 @@
         <img src="https://img.shields.io/badge/Data_Analysis-7952B3?style=flat-square"/>
       </p>
       <p>
-        <a href="버거지수_레포링크">Repository</a>
+        <a href="https://github.com/edu-ai-jiwon/BURGER-INDEX-CRIME-ANALYSIS">Repository</a>
       </p>
     </td>
     <td width="50%">
@@ -106,7 +106,7 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
       </p>
       <p>
-        <a href="포트폴리오링크">Portfolio</a>
+        <a href="https://www.notion.so/39169db2072880a0ad15ed8a490f9db1?source=copy_link">Portfolio</a>
       </p>
     </td>
   </tr>
