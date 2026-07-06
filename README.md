@@ -60,23 +60,42 @@ LLM과 STT를 활용해 회의 준비자료 생성, 회의록 요약, 업무 분
 - 분석용 데이터 정리 및 가공
 
 ---
-
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Backend & API
-`Python` `Django` `FastAPI` `MySQL`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 ### AI / LLM
-`LLM` `RAG` `vLLM` `WhisperX` `Pyannote` `OpenAI API` `Cohere API`
+![LLM](https://img.shields.io/badge/LLM-111111?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat-square)
+![WhisperX](https://img.shields.io/badge/WhisperX-4B8BBE?style=flat-square)
+![Pyannote](https://img.shields.io/badge/Pyannote-7952B3?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=OpenAI&logoColor=white)
+![Cohere API](https://img.shields.io/badge/Cohere_API-39594D?style=flat-square)
 
 ### Frontend
-`React` `TypeScript` `Tailwind CSS` `HTML` `CSS`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
 ### Data
-`Pandas` `Scikit-learn` `Selenium` `Qdrant` `Chroma`
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Chroma](https://img.shields.io/badge/Chroma-5B5BD6?style=flat-square)
 
 ### Collaboration
-`Git` `GitHub` `Postman` `Notion`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
 ---
 
