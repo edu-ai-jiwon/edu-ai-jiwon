@@ -5,7 +5,7 @@
 <h3 align="center">AI Service Developer | LLM · RAG · STT · Backend</h3>
 
 <p align="center">
-  한문교육 전공에서 AI 서비스 개발로 확장하며,<br/>
+  한문교육 전공에서 AI 서비스 개발로 진로를 확장하며,<br/>
   사용자의 업무 흐름을 개선하는 AI 서비스를 만들고 있습니다.
 </p>
 
@@ -28,7 +28,7 @@
 - AI 서비스 개발자로 성장 중이며, LLM/RAG/STT 기반 서비스 구현에 관심이 있습니다.
 - Django, FastAPI, React를 활용한 웹 서비스 개발 경험이 있습니다.
 - 문서 기반 검색, 회의록 요약, 업무 자동화처럼 실제 사용자 흐름을 개선하는 프로젝트를 수행했습니다.
-- 프로젝트 과정에서 데이터 구조 정리, API 연동 흐름 검토, README 및 발표자료 문서화를 담당했습니다.
+- 프로젝트 과정에서 데이터 구조 정리, API 연동 흐름 검토, README 및 발표 자료 문서화를 담당했습니다.
 
 ---
 
@@ -37,6 +37,7 @@
 <table>
   <tr>
     <td width="50%">
+      <img width="1920" height="1080" alt="인트로 (1)" src="https://github.com/user-attachments/assets/adf44229-031a-44a0-a92c-a8221a1df9b9" />
       <h3>회의피하지마 HPM</h3>
       <p><b>AI 회의 자동화 플랫폼</b></p>
       <p>
@@ -56,6 +57,7 @@
       </p>
     </td>
     <td width="50%">
+      <img width="1672" height="941" alt="ChatGPT Image 2026년 7월 6일 오후 10_47_21" src="https://github.com/user-attachments/assets/cb257a52-3a5f-45b7-a483-e251f277ad60" />
       <h3>Insurance Benefit Chatbot</h3>
       <p><b>RAG 기반 보험 가이드 챗봇</b></p>
       <p>
@@ -77,6 +79,7 @@
   </tr>
   <tr>
     <td width="50%">
+      <img width="1672" height="941" alt="ChatGPT Image 2026년 7월 6일 오후 10_53_09" src="https://github.com/user-attachments/assets/1ca0f52a-256a-4bb2-812e-cb6aeb8e97e6" />
       <h3>Burger Index & Crime Analysis</h3>
       <p><b>지역 치안 EDA 프로젝트</b></p>
       <p>
@@ -94,6 +97,7 @@
       </p>
     </td>
     <td width="50%">
+      <img width="1672" height="941" alt="ChatGPT Image 2026년 7월 6일 오후 10_56_18" src="https://github.com/user-attachments/assets/addd71c9-00a9-4a2d-aeb1-9eeae252519a" />
       <h3>Project Archive</h3>
       <p><b>Bootcamp Projects</b></p>
       <p>
